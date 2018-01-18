@@ -1,0 +1,1 @@
+open4x9i_rtos\startup_stm32f429xx.o: startup_stm32f429xx.s
